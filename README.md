@@ -6,6 +6,9 @@
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6473688997)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/v7T15gBknPM/0.jpg)](https://www.youtube.com/watch?v=v7T15gBknPM)
+
 ## 🌟 The Problem & The Solution
 Most frozen food or recipe instructions are based on specific wattages (e.g., 500W). If your microwave is 600W, 700W, or 1000W, simply following the label can lead to dry or unevenly cooked food. This app provides a precise mathematical conversion to give you the ideal duration instantly.
 
