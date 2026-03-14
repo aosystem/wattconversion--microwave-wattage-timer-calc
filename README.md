@@ -30,7 +30,8 @@ Most frozen food or recipe instructions are based on specific wattages (e.g., 50
 This app marks the **50th milestone** in a global initiative to release **50+ high-quality mini-apps**. My goal throughout this journey has been to create reliable, performant, and elegant tools that solve real-world problems for users across the globe.
 
 ### Explore the Portfolio
-- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7155639697967205469)
+- [Google Play Store Developer Page](https://play.google.com/store/apps/dev?id=7266451443285436081)
+- [App Store Developer Page](https://apps.apple.com/developer/akira-ohmachi/id1338624340)
 - [YouTube Channel - Try This App Now](https://www.youtube.com/@TryThisAppNow)
 
 ---
